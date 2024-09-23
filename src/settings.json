@@ -1,0 +1,10 @@
+{
+    "dev-mood": true,
+    "verbose": true,
+    "dependencies": {
+        "fcntl": "pycopy-fcntl"
+    },
+    "git-dependencies": {
+        "xbox360controller": "https://github.com/linusg/xbox360controller.git"
+    }
+}
